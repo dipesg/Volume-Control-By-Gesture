@@ -17,6 +17,10 @@ Create virtual environment.
 ```
 conda create -n venv python=3.7 -y
 ```
+Activate Virtual environment.
+```
+conda activate venv
+```
 Install required dependencies.
 ```
 pip install -r requirements.txt
