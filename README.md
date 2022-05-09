@@ -25,3 +25,8 @@ Run the file in the command prompt.
 ```
 python run VolumeControl.py
 ```
+
+## Technologies Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://editor.analyticsvidhya.com/uploads/800882.png" width=200>](https://opencv.org/) [<img target="_blank" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200082652/original/76e46a8fd6ae4aa835e7ec3878276ff494b49017/solve-your-mediapipe-related-problems.jpeg" width=170>](https://www.dreamstime.com/illustration/nlp.html) 
